@@ -1,6 +1,5 @@
 """
 Given a positive integer N, the task is to write a Python program to check if the number is Prime or not in Python.
-
 """
 
 N=int(input("Enter a number: "))
